@@ -1,7 +1,4 @@
-node_modules/
-dist/
+node_modules
+build
 .env
-*.log
-*.sqlite
-*.zip
-memory/
+.DS_Store
